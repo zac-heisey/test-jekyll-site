@@ -19,5 +19,7 @@ You can find the source code for Jekyll at
 
 <a href="https://github.com/jekyll/jekyll">jekyll</a>
 
+<a href="/uploads/adroll-state-of-performance-marketing-17.pdf">This is a link to a PDF file</a>
 
 ![]({{ site.baseurl }}/uploads/beach.jpg)
+
