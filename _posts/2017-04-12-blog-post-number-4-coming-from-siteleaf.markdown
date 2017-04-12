@@ -9,4 +9,4 @@ This blog post was created using *Siteleaf* - another sweet CMS option built for
 
 ## This is a featured image
 
-{{ post.featured_image }}
+{{ page.featured_image }}
