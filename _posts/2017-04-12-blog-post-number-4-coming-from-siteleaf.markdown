@@ -12,4 +12,4 @@ This blog post was created using *Siteleaf* - another sweet CMS option built for
 
 ## This is a featured image
 
-<img src="{{ page.featured_image }}">
+<img src="{{ site.baseurl }}/{{ page.featured_image }}">
