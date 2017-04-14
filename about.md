@@ -20,5 +20,4 @@ You can find the source code for Jekyll at
 
 <a href="{{ site.baseurl }}/uploads/adroll-state-of-performance-marketing-17.pdf">This is a link to a PDF file</a>
 
-![]({{ site.baseurl }}/uploads/beach.jpg)
-
+![]({{ site.baseurl }}/uploads/subfolder/beach.jpg)
