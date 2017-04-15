@@ -1,19 +1,6 @@
 ---
 title: Zac's Jekyll Test Site
-url: http://zac-heisey.github.io
-baseurl: "/test-jekyll-site"
-email: your-email@domain.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
 timezone: UTC
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: '/:categories/:title'
-    author: 'Biz Z'
 collections:
   posts:
     title: Posts
@@ -21,6 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:categories/:title"
+    author: Biz Z
+url: http://zac-heisey.github.io
+baseurl: "/test-jekyll-site"
+email: your-email@domain.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
