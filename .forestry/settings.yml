@@ -21,7 +21,7 @@ sections:
   match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com zheisey/image/upload/samples
-front_matter_path: https://res.cloudinary.com zheisey/image/upload
+front_matter_path: https://res.cloudinary.com zheisey/image/upload/samples
 use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: 
