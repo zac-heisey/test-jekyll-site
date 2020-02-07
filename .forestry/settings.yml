@@ -19,7 +19,7 @@ sections:
   label: Footer Content
   create: all
   match: "**/*"
-upload_dir: https://cloudinary.com/console/c-a2d58147364ac4f6d1551ec5f593f8/media_library/folders/%2Fsamples
+upload_dir: https://api.cloudinary.com/v1_1/zheisey/image/upload/samples
 public_path: https://res.cloudinary.com/zheisey/image/upload/samples
 front_matter_path: ''
 use_front_matter_path: true
